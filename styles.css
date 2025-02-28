@@ -30,7 +30,7 @@ h1 {
 }
 
 h1::before {
-    content: url('https://www.shutterstock.com/image-vector/vector-illustration-lord-shiva-on-transparent-2578149185');
+    content: url('https://www.shutterstock.com/image-illustration/watercolor-painting-red-black-ink-hindu-2372005767');
     background-size: 100px 100px;
     }
 h2 {
@@ -41,7 +41,7 @@ h2 {
 }
 
 h2::before {
-    content: url('https://www.shutterstock.com/image-vector/vector-illustration-lord-shiva-on-transparent-2578149185');
+    content: url('https://www.shutterstock.com/image-illustration/watercolor-painting-red-black-ink-hindu-2372005767');
     
 }
 
