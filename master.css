@@ -11,7 +11,7 @@
     width: 100%;
     justify-content: center;
 }
-h2{
+.navbar{
     display: flex;
     flex-direction: column;
     font-size: 30px;
